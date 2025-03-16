@@ -10,9 +10,9 @@ This is my portfolio website hosted on GitHub Pages. It showcases my projects an
 - **Computer Vision Intern at Analysed.in**: Improved image detection accuracy using TensorFlow and OpenCV.
 
 ## Setup
-1. Clone this repository: `git clone https://github.com/username/username.github.io.git`
+1. Clone this repository: `git clone https://github.com/vivekschaurasia/vivekschaurasia.github.io.git`
 2. Open `index.html` in a browser to view the site locally.
-3. To host on GitHub Pages, ensure the repository is named `username.github.io` and GitHub Pages is enabled in the settings.
+3. To host on GitHub Pages, ensure the repository is named `vivekschaurasia.github.io` and GitHub Pages is enabled in the settings.
 
 ## Live Site
-Visit the live site at: [https://username.github.io](https://username.github.io)
+Visit the live site at: [https://vivekschaurasia.github.io/](https://vivekschaurasia.github.io/)
